@@ -69,6 +69,11 @@ body {
   background-color: #fff;
 }
 
+._pendo-resource-center-badge-container {
+height: 40px !important;
+width: 40px !important;
+}
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
